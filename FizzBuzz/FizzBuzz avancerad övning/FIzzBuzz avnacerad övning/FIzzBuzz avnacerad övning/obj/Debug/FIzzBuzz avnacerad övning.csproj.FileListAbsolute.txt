@@ -1,0 +1,7 @@
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\bin\Debug\FIzzBuzz avnacerad övning.exe.config
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\bin\Debug\FIzzBuzz avnacerad övning.exe
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\bin\Debug\FIzzBuzz avnacerad övning.pdb
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\obj\Debug\FIzzBuzz avnacerad övning.csproj.AssemblyReference.cache
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\obj\Debug\FIzzBuzz avnacerad övning.csproj.CoreCompileInputs.cache
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\obj\Debug\FIzzBuzz avnacerad övning.exe
+C:\Users\LeafM\OneDrive\.Net (systemutveckling YH)\FizzBuzz\FizzBuzz avancerad övning\FIzzBuzz avnacerad övning\FIzzBuzz avnacerad övning\obj\Debug\FIzzBuzz avnacerad övning.pdb
