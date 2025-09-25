@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bok-klass", "bok-klass\bok-klass.csproj", "{B1904577-5DC8-4D0D-A5A0-B75A7826A6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1904577-5DC8-4D0D-A5A0-B75A7826A6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1904577-5DC8-4D0D-A5A0-B75A7826A6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1904577-5DC8-4D0D-A5A0-B75A7826A6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1904577-5DC8-4D0D-A5A0-B75A7826A6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26DA96E-01E9-4FBF-8618-0AD1F6AD6E9A}
+	EndGlobalSection
+EndGlobal
