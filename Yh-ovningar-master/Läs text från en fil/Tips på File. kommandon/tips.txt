@@ -1,0 +1,27 @@
+/*
+ *Skapar fil - File.WriteAllText("test.txt", "detta är en testfil");
+
+---Tar bort filen.
+//File.Delete("test.txt");
+
+/* för att öppna en fil och skriva till den till konsolen.
+----------
+File.ReadAllLines("test.txt");
+Console.WriteLine(File.ReadAllText("test.txt"));
+----------
+ */
+
+//File.GetLastAccessTime("test.txt");
+//--- kollar när filen senast öppnades
+//Console.WriteLine(File.GetLastAccessTime("test.txt"));
+//--- skriver ut när filen senast öppnades
+
+//-- Fil. finns det mång olika alternativ att läsa från en fil.
+
+
+        
+/*  
+Class1 c1 = new Class1();
+Console.WriteLine(c1.Exists(args));
+Console.ReadKey();
+*/

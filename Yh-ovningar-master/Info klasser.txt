@@ -1,0 +1,60 @@
+ska göra person med 3 atrributes 
+(klass PrinPerson)
+int personNumber, string name, int age
+void PrintPerson ( int PersonNumber, string name, int age)
+{console.Writeline("person " + personNumber);
+console.Writeline("person " + name);
+console.Writeline("person " + age);
+console.Writeline();
+
+
+
+class Person
+[
+{console.Writeline("person " + person..number);
+console.Writeline("namn" + person..name);
+console.Writeline("Age " + person.age);
+console.Writeline();
+
+
+]
+
+
+OBS!!!! GÖR ALLT PUBLIC!!
+
+kallar på person lista
+
+var person1 = New Person();
+
+person1.name = "Anna";
+person1.age = 25;
+
+var person2 = New Person();
+person2.name = "Erik";
+person2.age = 25;
+
+
+var person3 = New Person();
+person3.name = "Sara";
+person3.age = 25;
+
+
+var person4 = New Person();
+person4.name = "Kalle";
+person4.age = 25;
+
+
+
+Klass Person
+[ 
+public string name;
+public int age;
+]
+
+
+
+kan använda måsvingar för att dela upp var person 1 och vidare 
+[number =4;
+name ="Kalle Anka";
+age =90;
+]

@@ -1,0 +1,33 @@
+Listor har alltid en längd.
+
+List<int> lista = new List <int>(); för en lista av nummer
+
+eller 
+
+var lista = new List<int>();
+
+lista.Add(1);
+lista.Add(2);
+lista.Add(3);
+lista.Add(4);
+lista.Add(5);
+
+List<int> lista = [1,2,3,4,5]; (OM LIST INT MÅSTE LISTAN INNEHÅLLA SIFFRON EFTER= )
+
+foreach (var element in lista)
+Console.WriteLine(element);
+
+
+
+while /true)
+[
+	if (int.tryparse(console.Readline(), out int number))
+	[
+		list.add(number);
+	]
+	else break;
+]
+
+
+
+lista<string> namn = "kalle, bruno, oskar";

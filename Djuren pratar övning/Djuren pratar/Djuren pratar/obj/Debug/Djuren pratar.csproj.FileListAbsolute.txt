@@ -1,0 +1,8 @@
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\obj\Debug\Djuren pratar.csproj.AssemblyReference.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\obj\Debug\Djuren pratar.csproj.CoreCompileInputs.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\bin\Debug\Djuren pratar.exe.config
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\bin\Debug\Djuren pratar.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\bin\Debug\Djuren pratar.pdb
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\obj\Debug\Djuren pratar.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\obj\Debug\Djuren pratar.pdb
+C:\GitHub Studie uppgift .net YH\-O-vningar\Djuren pratar övning\Djuren pratar\Djuren pratar\obj\Debug\Djuren pratar.exe.config
