@@ -1,0 +1,7 @@
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\obj\Debug\Formritare.csproj.AssemblyReference.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\obj\Debug\Formritare.csproj.CoreCompileInputs.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\bin\Debug\Formritare.exe.config
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\bin\Debug\Formritare.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\bin\Debug\Formritare.pdb
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\obj\Debug\Formritare.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Formritare\Formritare\Formritare\obj\Debug\Formritare.pdb
