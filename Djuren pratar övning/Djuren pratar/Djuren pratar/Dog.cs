@@ -10,15 +10,24 @@ namespace Djuren_pratar
     {
         // namn på hunden
         private string name;
+        private string toy;
 
         // konstruktor
-        public Dog(string name)
+        public Dog(string name, string toy)
         {
             this.name = name;
+            this.toy = toy;
+        }
+        
+        // implementerar Speak metoden från IAnimal interfacet
+        public void Speak()
+        {
+            Console.WriteLine($"{name}, who likes {toy} says Woof!");
         }
 
         // statisk metod som skapar en lista med hundar från en lista med namn
-        public static List<Dog> CreateDogs(List<string> names)
+        // OBS! behövs för  att använda sätt 3 och 2.
+        /*public static List<Dog> CreateDogs(List<string> names)
         {
             var dogs = new List<Dog>();
             foreach (var name in names)
@@ -27,12 +36,9 @@ namespace Djuren_pratar
             }
             return dogs;  //    returnerar listan med hundar
         }
+        */
 
-        // implementerar Speak metoden från IAnimal interfacet
-        public void Speak()
-        {
-            Console.WriteLine($"{name} says Woof!");
-        }
+
         
     }
 }

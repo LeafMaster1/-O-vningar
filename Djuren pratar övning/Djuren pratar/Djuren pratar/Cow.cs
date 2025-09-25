@@ -10,15 +10,23 @@ namespace Djuren_pratar
     {
         // namn på kon
         private string name;
-        
+        private string farm;
         // konstruktor
-        public Cow(string name)
+        public Cow(string name, string farm)
         {
             this.name = name;
+            this.farm = farm;
+        }
+
+        // implementerar Speak metoden från IAnimal interfacet
+        public void Speak() 
+        {
+            Console.WriteLine($"{farm}, {name} says Moo!");
         }
 
         // statisk metod som skapar en lista med kor från en lista med namn
-        public static List<Cow> CreatCows(List<string> names)
+        // OBS! behövs för  att använda sätt 3 och 2.
+        /*public static List<Cow> CreatCows(List<string> names)
         {
             var cows = new List<Cow>();
             foreach (var name in names)
@@ -27,11 +35,7 @@ namespace Djuren_pratar
             }
             return cows; //     returnerar listan med kor
         }
+        */
 
-        // implementerar Speak metoden från IAnimal interfacet
-        public void Speak() 
-        {
-            Console.WriteLine($"{name} Moo!");
-        }
     }
 }

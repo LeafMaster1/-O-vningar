@@ -10,15 +10,24 @@ namespace Djuren_pratar
     {
         // namn på katten
         private string name;
-
+        private string sleepingPlace;
+        
         // konstruktor
-        public Cat(string name)
+        public Cat(string name, string sleepingPlace)
         {
+            this.sleepingPlace = sleepingPlace;
             this.name = name;
+        }
+        
+        // implementerar Speak metoden från IAnimal interfacet
+        public void Speak()
+        {
+            Console.WriteLine($"{name} says Meow! while lounging on the {sleepingPlace}" );
         }
 
         // statisk metod som skapar en lista med katter från en lista med namn
-        public static List<Cat> CreatCats(List<string> names)
+        // OBS! behövs för  att använda sätt 3 och 2.
+       /* public static List<Cat> CreatCats(List<string> names) 
         {
             var cats = new List<Cat>();
             foreach (var name in names)
@@ -28,11 +37,8 @@ namespace Djuren_pratar
             return cats; // returnerar listan med katter
         }
 
-        // implementerar Speak metoden från IAnimal interfacet
-        public void Speak()
-        {
-            Console.WriteLine($"{name} says Meow!");
-        }
+        */
+
     }
     
 }

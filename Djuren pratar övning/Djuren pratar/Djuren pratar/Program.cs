@@ -10,7 +10,7 @@ namespace Djuren_pratar
     {
         static void Main(string[] args)
         {
-            /*------ - 1 sätt att göra det på ---
+            /*------ - 3 sätt att göra det på ---
              * List<string> dogNames = new List<string> { "Sir Barks-a-Lot", "Droolius Caesar" };
             List<IAnimal> animals = Dog.CreateDogs(dogNames).Cast<IAnimal>().ToList();
             List<string> catNames = new List<string> { "Waffleton", "Meowstro" };
@@ -22,19 +22,21 @@ namespace Djuren_pratar
 
 
             //--- 2 sätt att göra det på ---
-            List<IAnimal> animals = new List<IAnimal>();
+            /*List<IAnimal> animals = new List<IAnimal>();
             Dog.CreateDogs(new List<string> { "Sir Barks-a-Lot", "Droolius Caesar" }).ForEach(d => animals.Add(d));
             Cat.CreatCats(new List<string> { "Waffleton", "Meowstro" }).ForEach(c => animals.Add(c));
-            Cow.CreatCows(new List<string> { "Cowabunga", "Oreo" }).ForEach(cw => animals.Add(cw));
-
+            Cow.CreatCows(new List<string> { "Cowabunga", "Oreo", }).ForEach(cw => animals.Add(cw));
+            */
 
             //------- 1 sätt att göra det på --- men får inte ut all 6 djuren
-            //new Cow("Cowabunga");
-            //new Cow("Oreo");
-            //new Cat("Waffleton");
-            //new Cat("Meowstro");
-            //new Dog("Sir Barks-a-Lot");
-            //new Dog(""Droolius Caesar");
+            List<IAnimal> animals = new List<IAnimal>
+            {    new Dog("Sir Barks-a-Lot", "Pizza,"),
+                 new Dog("Droolius Caesar", "Bones,"),
+                 new Cat("Waffleton", "Windsill"),
+                 new Cat("Meowstro", "bed"),
+                 new Cow("Cowabunga","Hay Fever Farms"),
+                 new Cow("Oreo", "Hay Fever Farms")
+            };
 
             //----------
 
