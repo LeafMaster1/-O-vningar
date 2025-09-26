@@ -1,0 +1,8 @@
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\bin\Debug\Area övning.exe.config
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\bin\Debug\Area övning.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\bin\Debug\Area övning.pdb
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\obj\Debug\Area övning.csproj.AssemblyReference.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\obj\Debug\Area övning.csproj.CoreCompileInputs.cache
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\obj\Debug\Area övning.exe
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\obj\Debug\Area övning.pdb
+C:\GitHub Studie uppgift .net YH\-O-vningar\Area övninng\Area övning\Area övning\obj\Debug\Area övning.exe.config
